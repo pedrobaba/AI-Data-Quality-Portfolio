@@ -1,8 +1,8 @@
 # AI Data Quality & Evaluation Portfolio
 
-A practical learning portfolio documenting my 21-day journey in **AI response evaluation, data annotation and data quality**.
+A practical learning portfolio documenting my 21-day journey in **AI response evaluation, data annotation, and data quality**.
 
-The portfolio follows a daily learning workflow: study the topic, write structured notes, complete a practical exercise, reflect on the lesson, record useful resources and update this progress tracker.
+The portfolio follows a daily learning workflow: study the topic, write structured notes, complete a practical exercise, reflect on the lesson, record useful resources, and update this progress tracker.
 
 > **Portfolio integrity:** The exercises and projects in this repository are self-directed learning demonstrations. They are not presented as paid client work or professional production experience.
 
@@ -16,10 +16,10 @@ The portfolio follows a daily learning workflow: study the topic, write structur
 
 | Item | Status |
 |---|---|
-| Day completed | 1 / 21 |
-| Current topic | Introduction to AI and LLMs |
-| Latest assessment | 53/60 (88.3% of scored components) |
-| Next topic | How LLMs Generate Responses |
+| Day completed | 2 / 21 |
+| Current topic | How LLMs Generate Responses |
+| Latest assessment | 4/5 (80% of scored components) |
+| Next topic | AI Hallucinations and Factual Accuracy |
 | Programme status | In progress |
 
 ## Repository Structure
@@ -38,10 +38,10 @@ AI-Data-Quality-Portfolio/
 
 ## Daily Documentation Workflow
 Each learning day is documented using:
-1. **Notes** — concepts, definitions and explanations.
-2. **Projects** — exercises, evaluation decisions, examples and corrections.
-3. **Learning Journal** — reflection, challenges and next-day goal.
-4. **Resources** — free references, tools and useful links.
+1. **Notes** — concepts, definitions, and explanations.
+2. **Projects** — exercises, evaluation decisions, examples, and corrections.
+3. **Learning Journal** — reflection, challenges, and next-day goal.
+4. **Resources** — free references, tools, and useful links.
 5. **README update** — progress tracker and current learning status.
 
 Daily workflow: **Learn → Notes → Practical Project → Journal → Resources → README → Commit and Push.**
@@ -51,8 +51,8 @@ Daily workflow: **Learn → Notes → Practical Project → Journal → Resource
 | Day | Learning focus | Status |
 |---:|---|---|
 | 01 | Introduction to AI and Large Language Models | Completed |
-| 02 | How LLMs Generate Responses | Next |
-| 03 | AI Hallucinations and Factual Accuracy | Pending |
+| 02 | How LLMs Generate Responses | Completed |
+| 03 | AI Hallucinations and Factual Accuracy | Next |
 | 04 | Response Quality and Evaluation Criteria | Pending |
 | 05 | Instruction Following and Prompt Constraints | Pending |
 | 06 | Human Feedback, Preference Ranking and RLHF | Pending |
@@ -99,10 +99,10 @@ I am developing foundational skills for roles such as:
 - Search Quality Evaluator
 - AI Data Quality Analyst
 
-This learning portfolio is intended to demonstrate practice, reasoning and continuous improvement. It does not guarantee employment or platform qualification.
+This learning portfolio demonstrates practice, reasoning, and continuous improvement. It does not guarantee employment or platform qualification.
 
 ## Progress Updates
-- **11 November 2026:** Completed Day 1 — Introduction to AI and LLMs. Scored 53/60 across the assessed practical and quiz components (88.3%).
+- **12 November 2026:** Completed Day 2 — How LLMs Generate Responses. Scored 4/5 across the assessed practical and quiz components (80%).
 
 ---
 

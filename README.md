@@ -16,10 +16,10 @@ The portfolio follows a daily learning workflow: study the topic, write structur
 
 | Item | Status |
 |---|---|
-| Day completed | 2 / 21 |
-| Current topic | How LLMs Generate Responses |
-| Latest assessment | 4/5 (80% of scored components) |
-| Next topic | AI Hallucinations and Factual Accuracy |
+| Day completed | 3 / 21 |
+| Current topic | AI Hallucinations and Factual Accuracy |
+| Latest assessment | 20/20 (100% of scored components) |
+| Next topic | Response Quality and Evaluation Criteria |
 | Programme status | In progress |
 
 ## Repository Structure
@@ -52,8 +52,8 @@ Daily workflow: **Learn → Notes → Practical Project → Journal → Resource
 |---:|---|---|
 | 01 | Introduction to AI and Large Language Models | Completed |
 | 02 | How LLMs Generate Responses | Completed |
-| 03 | AI Hallucinations and Factual Accuracy | Next |
-| 04 | Response Quality and Evaluation Criteria | Pending |
+| 03 | AI Hallucinations and Factual Accuracy | Completed |
+| 04 | Response Quality and Evaluation Criteria | Next |
 | 05 | Instruction Following and Prompt Constraints | Pending |
 | 06 | Human Feedback, Preference Ranking and RLHF | Pending |
 | 07 | AI Safety, Bias and Week 1 Assessment | Pending |
@@ -102,7 +102,7 @@ I am developing foundational skills for roles such as:
 This learning portfolio demonstrates practice, reasoning, and continuous improvement. It does not guarantee employment or platform qualification.
 
 ## Progress Updates
-- **12 November 2026:** Completed Day 2 — How LLMs Generate Responses. Scored 4/5 across the assessed practical and quiz components (80%).
+- **14 November 2026:** Completed Day 3 — How LLMs Generate Responses. Scored 20/20 across the assessed practical and quiz components (100%).
 
 ---
 

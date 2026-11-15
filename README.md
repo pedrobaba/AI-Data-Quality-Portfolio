@@ -16,10 +16,10 @@ The portfolio follows a daily learning workflow: study the topic, write structur
 
 | Item | Status |
 |---|---|
-| Day completed | 3 / 21 |
-| Current topic | AI Hallucinations and Factual Accuracy |
-| Latest assessment | 20/20 (100% of scored components) |
-| Next topic | Response Quality and Evaluation Criteria |
+| Day completed | 4 / 21 |
+| Current topic | Response Quality and Evaluation Criteria |
+| Latest assessment | 17/20 (85% of scored components) |
+| Next topic | Instruction Following and Prompt Constraints |
 | Programme status | In progress |
 
 ## Repository Structure
@@ -53,8 +53,8 @@ Daily workflow: **Learn → Notes → Practical Project → Journal → Resource
 | 01 | Introduction to AI and Large Language Models | Completed |
 | 02 | How LLMs Generate Responses | Completed |
 | 03 | AI Hallucinations and Factual Accuracy | Completed |
-| 04 | Response Quality and Evaluation Criteria | Next |
-| 05 | Instruction Following and Prompt Constraints | Pending |
+| 04 | Response Quality and Evaluation Criteria | Completed |
+| 05 | Instruction Following and Prompt Constraints | Next |
 | 06 | Human Feedback, Preference Ranking and RLHF | Pending |
 | 07 | AI Safety, Bias and Week 1 Assessment | Pending |
 | 08 | Introduction to Data Annotation and Guidelines | Pending |
@@ -102,7 +102,7 @@ I am developing foundational skills for roles such as:
 This learning portfolio demonstrates practice, reasoning, and continuous improvement. It does not guarantee employment or platform qualification.
 
 ## Progress Updates
-- **14 November 2026:** Completed Day 3 — How LLMs Generate Responses. Scored 20/20 across the assessed practical and quiz components (100%).
+- **15 November 2026:** Completed Day 4 — Instruction Following and Prompt Constraints. Scored 17/20 across the assessed practical and quiz components (85%).
 
 ---
 

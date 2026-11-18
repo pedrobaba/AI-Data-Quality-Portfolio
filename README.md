@@ -16,10 +16,10 @@ The portfolio follows a daily learning workflow: study the topic, write structur
 
 | Item | Status |
 |---|---|
-| Day completed | 4 / 21 |
+| Day completed | 6 / 21 |
 | Current topic | Response Quality and Evaluation Criteria |
-| Latest assessment | 17/20 (85% of scored components) |
-| Next topic | Instruction Following and Prompt Constraints |
+| Latest assessment | 10/12 (83.3%) |
+| Next topic |  AI Safety, Bias and Week 1 Assessment |
 | Programme status | In progress |
 
 ## Repository Structure
@@ -31,9 +31,6 @@ AI-Data-Quality-Portfolio/
 ├── Learning-Journal/
 ├── Resources/
 ├── Projects/
-├── Screenshots-&-Recordings/
-├── Interview-Questions/
-└── Certificates/
 ```
 
 ## Daily Documentation Workflow
@@ -54,9 +51,9 @@ Daily workflow: **Learn → Notes → Practical Project → Journal → Resource
 | 02 | How LLMs Generate Responses | Completed |
 | 03 | AI Hallucinations and Factual Accuracy | Completed |
 | 04 | Response Quality and Evaluation Criteria | Completed |
-| 05 | Instruction Following and Prompt Constraints | Next |
-| 06 | Human Feedback, Preference Ranking and RLHF | Pending |
-| 07 | AI Safety, Bias and Week 1 Assessment | Pending |
+| 05 | Instruction Following and Prompt Constraints | Completed |
+| 06 | Human Feedback, Preference Ranking and RLHF | Completed |
+| 07 | AI Safety, Bias and Week 1 Assessment | Next |
 | 08 | Introduction to Data Annotation and Guidelines | Pending |
 | 09 | Text Classification and Categorisation | Pending |
 | 10 | Sentiment and Intent Annotation | Pending |
@@ -101,8 +98,9 @@ I am developing foundational skills for roles such as:
 
 This learning portfolio demonstrates practice, reasoning, and continuous improvement. It does not guarantee employment or platform qualification.
 
-## Progress Updates
-- **15 November 2026:** Completed Day 4 — Instruction Following and Prompt Constraints. Scored 17/20 across the assessed practical and quiz components (85%).
+## Progress Update
+- **15 November 2026:** Completed Day 4 — Instruction Following and Prompt Constraints. Scored 10/12 across the assessed practical and quiz components (83%).
+
 
 ---
 

@@ -16,10 +16,10 @@ The portfolio follows a daily learning workflow: study the topic, write structur
 
 | Item | Status |
 |---|---|
-| Day completed | 6 / 21 |
-| Current topic | Response Quality and Evaluation Criteria |
-| Latest assessment | 10/12 (83.3%) |
-| Next topic |  AI Safety, Bias and Week 1 Assessment |
+| Day completed | 7 / 21 |
+| Current topic | AI Safety, Bias and Week 1 Assessment |
+| Latest assessment | 19/20 (95%) |
+| Next topic |  Introduction to Data Annotation and Guidelines |
 | Programme status | In progress |
 
 ## Repository Structure
@@ -53,8 +53,8 @@ Daily workflow: **Learn → Notes → Practical Project → Journal → Resource
 | 04 | Response Quality and Evaluation Criteria | Completed |
 | 05 | Instruction Following and Prompt Constraints | Completed |
 | 06 | Human Feedback, Preference Ranking and RLHF | Completed |
-| 07 | AI Safety, Bias and Week 1 Assessment | Next |
-| 08 | Introduction to Data Annotation and Guidelines | Pending |
+| 07 | AI Safety, Bias and Week 1 Assessment | Completed |
+| 08 | Introduction to Data Annotation and Guidelines | Next |
 | 09 | Text Classification and Categorisation | Pending |
 | 10 | Sentiment and Intent Annotation | Pending |
 | 11 | Named Entity Recognition (NER) | Pending |
@@ -97,10 +97,6 @@ I am developing foundational skills for roles such as:
 - AI Data Quality Analyst
 
 This learning portfolio demonstrates practice, reasoning, and continuous improvement. It does not guarantee employment or platform qualification.
-
-## Progress Update
-- **15 November 2026:** Completed Day 4 — Instruction Following and Prompt Constraints. Scored 10/12 across the assessed practical and quiz components (83%).
-
 
 ---
 

@@ -16,10 +16,10 @@ The portfolio follows a daily learning workflow: study the topic, write structur
 
 | Item | Status |
 |---|---|
-| Day completed | 7 / 21 |
-| Current topic | AI Safety, Bias and Week 1 Assessment |
-| Latest assessment | 19/20 (95%) |
-| Next topic |  Introduction to Data Annotation and Guidelines |
+| Day completed | 8 / 21 |
+| Current topic |  Introduction to Data Annotation and Guidelines |
+| Latest assessment | 22/26 (84.6%) |
+| Next topic | Text Classification and Categorisation |
 | Programme status | In progress |
 
 ## Repository Structure
@@ -54,8 +54,8 @@ Daily workflow: **Learn → Notes → Practical Project → Journal → Resource
 | 05 | Instruction Following and Prompt Constraints | Completed |
 | 06 | Human Feedback, Preference Ranking and RLHF | Completed |
 | 07 | AI Safety, Bias and Week 1 Assessment | Completed |
-| 08 | Introduction to Data Annotation and Guidelines | Next |
-| 09 | Text Classification and Categorisation | Pending |
+| 08 | Introduction to Data Annotation and Guidelines | Completed |
+| 09 | Text Classification and Categorisation | Next |
 | 10 | Sentiment and Intent Annotation | Pending |
 | 11 | Named Entity Recognition (NER) | Pending |
 | 12 | Annotation Guidelines, Ambiguity and Edge Cases | Pending |
